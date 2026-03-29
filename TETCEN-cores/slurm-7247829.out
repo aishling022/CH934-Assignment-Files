@@ -1,0 +1,17 @@
+===================================================================================
+SLURM Job ID:            7247829
+Submit time:             Sat Mar 21 13:52:27 GMT 2026 (Unix Epoch time: 1774101147)
+Start time:              Sat Mar 21 13:52:39 GMT 2026 (Unix Epoch time: 1774101159)
+No. nodes:               1
+No. tasks:               16
+Job name:                CH934-TETCEN16.out
+Account:                 teaching
+QoS:                     teaching
+Partition (queue):       teaching
+Submit directory:        /users/qsb25157/CH934/TETCEN-cores
+Script name:             /users/qsb25157/CH934/TETCEN-cores/CH934-subjob-TETCEN-16cores.sh
+Master node:             wee10
+Nodes used:              wee10
+Task distribution:       cyclic
+===================================================================================
+
