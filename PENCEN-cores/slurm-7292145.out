@@ -1,0 +1,17 @@
+===================================================================================
+SLURM Job ID:            7292145
+Submit time:             Fri Mar 27 15:44:54 GMT 2026 (Unix Epoch time: 1774626294)
+Start time:              Fri Mar 27 15:45:22 GMT 2026 (Unix Epoch time: 1774626322)
+No. nodes:               1
+No. tasks:               4
+Job name:                CH934-PENCEN4.out
+Account:                 teaching
+QoS:                     teaching
+Partition (queue):       teaching
+Submit directory:        /users/qsb25157/CH934/PENCEN-cores
+Script name:             /users/qsb25157/CH934/PENCEN-cores/CH934-subjob-PENCEN-4cores.sh
+Master node:             wee17
+Nodes used:              wee17
+Task distribution:       cyclic
+===================================================================================
+
