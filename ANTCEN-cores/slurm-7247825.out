@@ -1,0 +1,17 @@
+===================================================================================
+SLURM Job ID:            7247825
+Submit time:             Sat Mar 21 13:51:20 GMT 2026 (Unix Epoch time: 1774101080)
+Start time:              Sat Mar 21 13:51:29 GMT 2026 (Unix Epoch time: 1774101089)
+No. nodes:               1
+No. tasks:               8
+Job name:                CH934-ANTCEN8.out
+Account:                 teaching
+QoS:                     teaching
+Partition (queue):       teaching
+Submit directory:        /users/qsb25157/CH934/ANTCEN-cores
+Script name:             /users/qsb25157/CH934/ANTCEN-cores/CH934-subjob-ANTCEN-8cores.sh
+Master node:             wee13
+Nodes used:              wee13
+Task distribution:       cyclic
+===================================================================================
+
